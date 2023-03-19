@@ -1,0 +1,260 @@
+Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization
+
+
+
+
+
+
+
+
+most  noneconomists  are  fearful  when  an  emerging  China  or  India, helped  by  their  still  low  real  wage  rates,  outsourcing  and  miracle export-led developments, cause layoffs from good American jobs. This
+is a hot issue now, and in the coming decade, it will not go away.
+Prominent and competent mainstream economists enter into the debate to educate and correct warm-hearted protestors who are against globalization. Here is a fair paraphrase of the argumentation that has been used recently by Alan Greenspan, Jagdish Bhagwati, Gregory Mankiw, Douglas Irwin and economists John or Jane Doe spread widely throughout academia.
+
+Yes, good jobs may be lost here in the short run. But still total U.S. net national product must, by the economic laws of comparative advantage, be raised in the long run (and in China, too). The gains of the winners from free trade, properly measured, work out to exceed the losses of the losers. This is not by mysterious fuzzy magic, but rather comes from a sharing of the trade-induced rise in total global vectors of the goods and services that people in a democ- racy want. Never forget to tally the real gains of consumers alongside admitted possible losses of some producers in this working out of what Schumpeter called “creative capitalist destruction.”
+Correct economic law recognizes that some American groups can be hurt by dynamic free trade. But correct economic law vindicates the word “cre- ative” destruction by its proof [sic] that the gains of the American winners are big enough to more than compensate the losers.
+
+y Paul A. Samuelson is Professor of Economics and Institute Professor Emeritus, Massachu- setts Institute of Technology, Cambridge, Massachusetts. 
+ 
+ 
+ 
+
+The last paragraph can be only an innuendo. For it is dead wrong about necessary surplus of winnings over losings—as I proved in my “Little Nobel Lecture of 1972” (1972b) and elsewhere in references here cited (see also Johnson and Stafford, 1993; Gomory and Baumol, 2000). The present paper provides explica- tion of the popular polemical untruth.
+Here Ricardian equilibrium analysis will presuppose no permanent loss of jobs either in China or America. Instead, it focuses on the vital question, “Will inven- tions A or B lower or raise the new market-clearing real wage rates that sustain high-to-full employment in both places?”
+Act I(a) of the present paper first rigorously investigates by twenty-first century Ricardo-Mill analysis the following contrived scenario: In the autarky absence of any trade at all, China’s precisely measured real income per capita is set at one-tenth of U.S. autarky real income. This for the reason that China’s labor productivities are specified here to average out to only one-tenth those of the United States. Quasi- realistically, China’s total labor population is posited here to be ten times that of the United States—so that in autarky any biasing effects of differences in total regional size can be kept out of the analysis. In this example, only a good 1 and a good 2 are involved. And, a` la the young J. S. Mill, demand tastes are everywhere assumed to be the same: more precisely, consumers even-handedly always spend their dispos- able incomes 50-50 on good 1 and on good 2.
+Despite the initial overall 10-to-1 superiority of the United States in absolute productivity, my example stipulates that in good 1, China’s inferiority of produc- tivity is much worse than one-tenth; in good 2 China’s inferiority vis-a-vis the United States is not as bad as one-tenth. Differences in opinion make for horse-race bets. Differences in relative (!) geographical productivities between good 1 and good 2 explain the bounties from specialization and trade. Vive les diffe´rences!
+In Act I(a)’s first part, geographical specialization and fair free trade are shown to happen to double exactly each place’s measurable autarky real income. So far, a big brownie point for the economist debaters.
+Act I(b) goes on to address how the United States and China will fare when Schumpeterian technical improvement in China has quadrupled her labor’s pro- ductivity in good 2, which is the good that China has been exporting to the United States. In my stipulated example, China’s average productivity still remains far below that of the United States. But, remember that so too are China’s real wages far below the United States’.
+In a nutshell, the new fair trade equilibrium must definitely create for the United States a better real net national product—better because we can buy our imports cheaper now. China’s good 2 elevated productivity does also in my Mill- Ricardo scenario raise her real net national product; and it happens to do so equally with the United States—even though China’s terms of trade do deteriorate some- what, albeit not enough to lower China’s per capita net national product when demand elasticity is Mill-like. Acts I(a) and I(b)’s valid numerical deductions are pluses for the economist proglobalization debaters.
+Act  II,  however,  deals  some  weighty  blows  against  economists’  oversimple
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+complacencies about globalization. It shifts focus to a new and different kind of Chinese technical innovation. In Act II, China’s progress takes place (by imitation or home ingenuity or . . . ) in good 1, in which the United States has previously had a comparative advantage. (High I.Q. secondary school graduates in South Dakota, who had been receiving from my New York Bank wages one-and-a-half times the U.S. minimum wage for handling phone calls about my credit card, have been laid off since 1990; a Bombay outsourcing unit has come to handle my inquiries. Their Bombay wage rate falls far short of South Dakota’s, but in India their wage far exceeds what their uncles and aunts used to earn.) What does Ricardo-Mill arith- metic tell us about realistic U.S. long-run effects from such outsourcings? In Act II, the new Ricardian productivities imply that, this invention abroad that gives to China some of the comparative advantage that had belonged to the United States can induce for the United States permanent lost per capita real income—an Act II loss even equal to all of Act I(a)’s 100 percent gain over autarky. And, mind well, this would not be a short run impact effect. Ceteris paribus it can be a permanent hurt. (“Permanent” means for as long as the postinvention technologies still apply.)
+In Ricardian equilibrium analysis, there is never any longest run unemploy- ment. So it is not that U.S. jobs are ever lost in the long run; it is that the new labor-market clearing real wage has been lowered by this version of dynamic fair free trade. (Does Act II forget about how the United States benefits from cheaper imports? No. There are no such neat net benefits, but rather there are now new net harmful U.S. terms of trade.)
+Finally, the Epilogue will comment on the robustness and relevance of the spelled out analyses in the two Acts. Qualitatively my Ricardian theorems do for the most part remain relevant.
+
+
+
+Act I(a): How Free Trade Benefits Both Nations’ Real Per Capita Incomes Compared to Autarky
+
+Analytical proof trumps mere talk about economic law. Here we begin with China possessed of average productivity only a tenth of the U.S. level. To remove complicating differences in the two places’ total outputs and labor force, China’s workforce is set at ten times that of the United States: say that the total U.S. workforce is 100, while China’s total workforce is 1,000.
+Four Ricardian productivity parameters are exogenously given in my initial two-good scenarios. For the United States, the respective labor productivities are ⌸1 ϭ 2 and ⌸2 ϭ 21 ; for China they are ␲1 ϭ 201  and ␲2 ϭ 102  (Notationally, capital letters denote U.S. variables; lower case denote Chinese variables.) Readers will observe that U.S. productivities average out to ten times China’s. But the U.S. superiority is more than ten in good 1; and China’s inferiority in good 2 is not as bad as one-tenth. Before any trade, China’s autarky per capita real income is contrived to work out to precisely one-tenth of U.S. autarky per capita real income;
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+before trade, good 2 is relatively cheap in China while good 1 is cheap in the United States. Here are the details.
+
+Autarky’s “Before” Equilibrium
+In autarky, if the United States devotes 50 of its 100 workers to good 1, it can produce a quantity of 100; if it devotes the other 50 workers to good 2, it can produce 25. A parallel calculation holds for China’s 1,000 workers: 500 produce only 25 of good 2; and the other 500 produce 100 of good 2. Because people all spend their incomes 50-50 on the two goods, competition will assume that, in autarky, each place must allocate its labor supply 50-50 between goods 1 and 2.
+In this autarky example, the opportunity cost of producing a unit of good 2 in
+the United States is 4 units of good 1. However, in China, the opportunity cost of
+1
+producing a unit of good 2 is	unit of good 1. These differences in relative
+4
+geographic productivities and in autarky price ratios provide the basis for com- parative  advantage-induced  geographical  specialization  that  will  amplify  world productivity!
+My twenty-first-century tactical advance over nineteenth-century Ricardo-Mill is to recognize that Mill’s assumption of 50-50 expenditures on the two goods gives us a firm measuring rod for an exact index of real national incomes and for real world income. This index is the geometric mean of consumption.1  Thus, in the United States, autarky real income can be measured as the geometric mean of producing
+100 of good 1 and 25 of good 2, which is the square root of 100 multiplied by the square root of 25, or 50. Dividing by the assumed U.S. population of 100, U.S. per capita real income will then be 0.5. In China, autarky real income is the geometric mean of producing 25 of good 1 and 100 of good 2, which is the square root of 25 multiplied by the square root of 100, or also 50. Dividing by China’s population of 1,000, we calculate per capita autarky real income in China as 0.05.
+There is a second, equivalent way of measuring these various real national outputs. It is especially useful because it involves the geometric mean, not of quantities produced or consumed, but of the real wage rates of the two goods in each place. In autarky, the U.S. real wage rates are respectively precisely, for W/P1 and W/P2 , the ⌸1 ϭ 2 and ⌸2 ϭ 21 Ricardian productivities. U.S. real per capita autarky income of 0.5 as computed in the previous paragraph is (for Mill ) also given by the
+duality formula: 0.5 ϭ 2 ͌(W/P1)(W/P2) ϭ 2 ͌⌸1⌸2  ϭ 12	2 ⅐ 12. Likewise, for
+China, its real net national product per capita of 0.05 is given also by 21 ͌␲1␲2 ϭ 1
+ 
+1
+20  ⅐
+ 
+2
+10
+ 
+
+ϭ
+ 
+
+2(10).
+ 
+The above exact equality of U.S. and Chinese total outputs results only from
+
+
+
+1 The use of the geometric mean and the harmonic mean as money-metric utilities, and how they can be derived from indifference curves, is explained in Appendix 2, which is appended to the paper at the journal’s website ͗http://www.e-jep.org͘.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+my contrived simplifying example. We now replace autarky by free trade, thereby deducing a substantial gain in real per capita welfare in both places.
+
+Free Trade’s “After” Equilibrium
+The present model puts capital movements at zero. In free trade equilibrium, the trade balance is here always zero. With no tariffs, quotas or transport costs, in free trade relative price ratios will end up everywhere equalized. Of course, real wage rates will still diverge after free trade has raised them in both places.
+The first step in analyzing free trade is to deduce the qualitative pattern of specialization. Because the opportunity cost of producing good 1, expressed in terms of good 2, is lower in the United States, competition will impel the United States to specialize on good 1. Because the opportunity cost of producing good 2, expressed in terms of good 1, is lower in China, China’s competitors will specialize on good 2. Indeed, avaricious U.S. Darwinian competition will concentrate on producing good 1 only; so that its 100 workers with a productivity level of 2 will produce 200 of good 2. China’s comparative advantage will impel her competitors to produce good 2 only, and the 1,000 Chinese workers with productivity of two-tenths will produce 200 units of good 2. This free trade geographical special- ization can thus vastly raise world income as compared to autarky. Each good’s autarky global outputs of 125 are raised 60 percent by free trade’s specializations.
+Each place imports some of the good it does not produce, and does so at the market clearing prices that equate international supply and demand. The combi- nation of geographical specializations, which use the regions’ respective labors to produce only what they can produce relatively (!) best, and then trade, does iron out the huge autarky price ratio divergences.
+Using Mill’s assumption about income being evenly divided in both countries between both goods, and the fact that global production with specialization will equal a quantity of 200 for both goods, then the free trade price ratio, P2/P1  ϭ p2/p1 , equalized in both places by frictionless auctioneer exchange, becomes 200/200 or 1. At this balanced price configuration (which is a contrived artifact from my example’s cunning skew symmetries whose purpose was to simplify read- ers’ quick understanding), it is self-evident that both nations will share equally (not per capita equally) half-and-half in world total real outputs. When each country consumes 100 of each good— half of the 200 world outputs—their free trade geometric mean will be twice their autarky geometric mean. (Without my symme- tries,  each  place’s  relative  gain  over  autarky  will  still  be  positive  but  will  not necessarily be equal.)
+Many realistic asymmetries could negate the exact equality of percentage benefits  in  this  example.  Most  important  is  the  counterintuitive  truth  that  a reduction of China’s population relative to the United States will raise China’s per capita real income at the expense of lowering the U.S. gain from free trade! Noneconomists and Marxian economists guess otherwise, but that is their 180° wrong error.
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Act I(b): When China’s Technical Progress in Its Export Sector Must Raise U.S. Per Capita Real Income, But When It Might Lower China’s
+
+Here our thought experiment has China exogenously experiencing a quadru-
+2
+pling of productivity in her export sector: that is, the initial productivity of ␲2 ϭ
+10
+8
+in good 2 becomes postinvention ␲2Ј  ϭ 10 . All other productivities remain the same.
+Both before invention and after, the Ricardian inequalities of comparative advantage continue to compel the United States to specialize only on good 1 and China to specialize only on good 2. When all 100 U.S. workers produce good 1, they still produce a total of 200 only; when all 100 Chinese workers produce good 2, with the  higher  productivity  level,  they  now  produce  800.  World  output  is  clearly increased by this improvement in China’s productivity.
+Always the United States garners some part of the world gain in measured net global product. Why? Because the new superabundance of China’s q2  relative to unchanged U.S. Q1 necessarily lowers P2/P1 to us as consumers.
+Under Millian demand, China also gains in measurable well being. Suppose, however, that empirically demands are much more inelastic than in Mill’s demand structure. Then the quadrupled supply of China’s good 2 output could so much lower China’s export terms of trade p2/p1  as to plunge postinvention per capita income painfully below preinvention per capita income. (Postinvention, China’s share of world net national product drops all the way down to only one-fifth, no longer staying at one-half.) Self-immiseration by a nation is a well-known phenom- enon in the economic literature, and it does crop up here in the debate over globalization.2
+
+
+Act II: Proof that the United States Suffers Permanent Measurable Loss in Per Capita Real Income When China Enjoys Exogenous Productivity Gain in Good 1 Large Enough to Cut Some U.S. Production of It
+
+By contrast with Act I’s proof of U.S. benefit from Chinese technical progress in her export sector, Act II’s analysis will rebut any mainstream economist’s claims that the United States cannot suffer long-term harm from innovation abroad in a world of free trade.
+I begin with the same initial two-good Ricardian productivities as in Act I.
+
+
+2 In concluding Act I’s brief in favor of globalization, I remind readers of my Appendix 2’s discussion of how replacing Mill demand by realistic inelastic demand will actually cause China to be hurt by her own invention. Appendix 2, which offers detailed proofs, is appended to this article at the journal website ͗http://www.e-jep.org͘.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Before the invention, ⌸1 ϭ2 and ⌸2 ϭ 21 ; ␲1 ϭ 201  and ␲2 ϭ 102  . But now, for dramatic
+1
+emphasis, I expand China’s labor productivity in good 1 mightily, from ␲1 ϭ 20 to
+8
+␲1Ј ϭ 10 . The rest of the productivities remain unchanged. (Note: Despite the great increase in China’s labor productivity for good 1 to above the U.S. level of labor productivity for good 1, China still remains poorer in autarky than the United States—and still with a lower average real wage.)
+Before the invention, just as in Act I, the United States produces only 200 units of good 1, while China produces only 200 units of good 2. But now, after the invention, world output potential has markedly grown. However, all comparative advantages have been emasculated—for the reason that now, in every place, ⌸1/⌸2 and ␲1/␲2 both now equal 4. Each place can do as well in its new autarky as it can do under free trade. (Indeed under free trade rules, no one is any longer motivated to specialize geographically; there is no need or advantage in doing either export- ing or importing.) So this example’s whole story can be easily told. To appraise U.S. postinvention well being, ignore Ricardo and Mill; just simply compare the United States’ postinvention autarky geometric mean with its preinvention free trade geometric mean.
+We’ve seen that the preinvention free trade elicited 200 of good 1 from the United States and 200 of good 2 from China. Also, these balanced numbers mandated (P2/P1)Ј ϭ (p2/p1)Ј of unity. Such a nice balance meant that both places shared one-half of world national income, measured with the geometric mean as ͌200 ⅐ 200 ϭ 200. Focusing on U.S. per capita welfare, that meant preinvention free trade per capita net national product had been 21 (200)/100 ϭ 1.0. Query: Can postinvention U.S. autarky per capita geometric mean ever reattain that earlier level? The answer is a surprising “no.” Forced into autarky by China’s invention, the United States with its unchanging technology in our crucial thought experiment again divides its 100 workers evenly between producing goods 1 and 2. Producing
+1
+50 ⅐ 2 ϭ 100 of good 1, and 50 ⅐ 2 ϭ 25 of good 2, then U.S. real per capita income can be measured by the geometric mean as ͌100 ⅐ 25/100 ϭ 50/100 ϭ 0.5. Assuredly that does fall short of her initial per capita national income with free trade, which was 1.0. The new winds of free trade have blown well for China. But in  my  overdramatic  example,  they  have  blown  away  all  of  the  United  States’ previous enjoyments from free trade. (Test question: Could there be any pattern of future inventions abroad that would repeatedly reduce absolutely per capita U.S. benefits from free trade and globalization? Correct answer: Yes— however unlikely that dramatic pattern would be.)
+One example can sometimes be “too clever by half.” In this one it is free trade’s
+own spontaneous killing off of all trade that does harm to the United States.3
+
+
+3 To avoid breeding misunderstanding, my Appendix 1, which is appended to this article at the journal’s
+website ͗http://www.e-jep.org͘, analyzes a more realistic three-good scenario. Add to goods 1 and 2, with
+1
+their original productivities in the two countries, a good 3, which begins with ⌸3 ϭ 1 and ␲3 ϭ 10. The
+example therefore happens to force initial equal sharing by both places of world total output of good
+3: that is, shared comparative advantages. Then, exogenously, let China’s productivity in good 3 double
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Again my reported numerical results are not mere numbers drawn from a mysterious black box. In every case, it is terms of trade changes in (P2/P1; W/P1 , W/P2; w/p1 ,w/p2)— changes in those variables mandated by exogenous changes in relative  scarcities—that  have  had  their  intuitively  expected  effects  on  supply- demand equilibrium price ratios under competitive free trade.
+Economic history is replete with Act II examples, first insidiously and later decisively: in the United States, farming moved from east to west two centuries ago; textiles, shoes and manufacturers moved from New England to the low-wage South early in the last century; Victorian manufacturing hegemony became replaced by Yankee  inroads  after  1850.  Even  where  the  leaders  continued  to  progress  in absolute growth, their rate of growth tended often to be attenuated by an adverse headwind generated from low-wage competitors and technical imitators.
+
+
+Epilogue
+
+Acts I and II have demonstrated that sometimes free trade globalization can convert a technical change abroad into a benefit for both regions; but sometimes a productivity gain in one country can benefit that country alone, while perma- nently hurting the other country by reducing the gains from trade that are possible between the two countries.4 All of this constitutes long-run Schumpeterian effects, quite aside from and different from transitory short-run harms traceable to short- run adjustment costs or to temporary rents from patents and from eroding mo- nopolies on knowledge.
+It does not follow from my corrections and emendations that nations should or should not introduce selective protectionisms. Even where a genuine harm is dealt out by the roulette wheel of evolving comparative advantage in a world of free trade, what a democracy tries to do in self defense may often amount to gratuitously shooting itself in the foot. A pragmatic and scientifically more correct brief for globalization might go as follows.
+
+If the past and the future bring both Type A inventions that hurt your country and Type B inventions that help—and when both add to world real net
+
+
+2
+to ␲3Ј ϭ 10, which is just enough to kill off all U.S. production of good 3. Does that hurt us permanently ceteris paribus net? Yes, indeed it does. But this time the hurt to us comes from an increase in foreign trade—from initial zero trade in good 3, all of U.S. consumption of good 3 comes after China’s ␲3 invention from imports alone.
+4 Some past scholars have wondered whether cheapening of transport costs and speedier spreading of knowledge across national boundaries might in the future decimate comparative advantages and foreign trade. They have also wondered whether, when all peoples are as productive as Americans, some of their new benefit might come out of reduced U.S. well-being. So far, economic history has reported gain rather than loss in the ratio between Total Foreign Trade Ϭ Total World Output. If trade were ever to cease spontaneously under competition, since shipping goods back and forth for no good reason makes no sense, humanity ought to deem such a result to be good rather than bad, even if it exacts some price from the erstwhile most productive geographical place.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+national product welfare—then free trade may turn out pragmatically to be still best for each region in comparison with lobbyist-induced tariffs and quotas which involve both perversion of democracy and nonsubtle dead- weight distortion losses. In 1900 free traders proclaimed, “Tariffs are the Mother of trusts.” In this millennium a more pregnant truth may be: “Tariffs are the breeder of economic arteriosclerosis.”
+
+A few words are needed to judge how robust my simplified Ricardo-Mill
+paradigm is to real-world complexities.
+1. Adding nontradable goods or other realistic impediments to international
+exchange, analytic reflection deduces will not negate my fundamental findings.
+2.  My  qualitative  conclusions  also  remain  valid  after  adding  to  Ricardo’s labor-only technologies the post-1930 multifactor trade models pioneered by Heck- scher, Ohlin, Viner, Haberler, Lerner, Stolper-Samuelson, McKenzie, Jones and others, to say nothing of earlier Marshall and Edgeworth multifactor trade models. Just as multifactor Dornbusch-Fischer-Samuelson (1980) nicely generalized the Dornbusch-Fischer-Samuelson (1977) Ricardian labor-only paradigm, so will it be found that the qualitative results of Acts I and II do apply as well to multifactor as to labor-only scenarios.
+3. In this paper, along classical lines, all my free trade equilibria are analyzed under the assumptions of zero net capital movements. In this epoch of chronic long- term cumulative U.S. net foreign indebtedness, such simple Ricardo-Mill smacks of Hamlet  without  the  Gloomy  Dane.  Noneconomists  like  Warren  Buffett—the world’s richest and most successful investor is one—in November (2003) Fortune magazine blamed the chronic U.S. international payments deficit on free trade and therefore proposed auction taxes that would enforce zero U.S. borrowing-and- lending net. This paper’s techniques could deduce the measurable self-imposed harm America would bring down on itself by following the Buffett philosophy. But one-way U.S. balance-of-payment deficits need another paper to do that topic justice.
+4. What holds in a two-country, two- or three-good model can be shown to
+essentially hold in an N-country, M-good Ricardo-Mill paradigm.
+5. Smith-Allyn Young-Ohlin-Krugman trade paradigms based squarely on the imperfections of competition inseparable from increasing returns to scale technol- ogies  are  not  well  analyzed  by  classical  competitive  Ricardianisms.  However, Gomory-Baumol (2000) have reported findings similar to mine for various increas- ing returns to scale scenarios. I should add that it has been globalization’s enlarge- ment of market size that has done much to elevate the competitive model to greater policy relevance than the competitive model possessed in the 1890 –1950 epoch.
+6. My most important omission, for realism and for policy, is treating all people in  each  region  as  different  homogeneous  Ricardian  laborers.  That  inhibits  our grappling with the realistic cases where some Americans (capitalists and skilled computer experts) may be being helped by what is decimating the real free-trade
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+wage rates of the semi-skilled or of the blue-collar factory workers. My geometric mean approach can fortunately be adapted to handle just such problems.
+Instead of attenuating this paper’s theses, heterogeneity amplifies its impor- tance. Contemplate a scenario where Schumpeter’s fruitful capitalist destruction harms a really sizeable fraction of the future U.S. population and, say, improves welfare of another group and does that so much as to justify a calculation that the winners could be made to transfer some of their gains and thereby leave no substantial U.S. group net losers from free trade. Should noneconomists accept this as cogent rebuttal if there is no evidence that compensating fiscal transfers have been made or will be made? Marie Antoinette said, “Let them eat cake.” But history records no transfer of sugar and flour to her peasant subjects. Even the sage Dr. Greenspan sometimes sounds Antoinette-ish. The economists’ literature of the 1930s—Hicks,  Lerner,  Kaldor,  Scitovsky  and  others,  to  say  nothing  of  earlier writings by J.S. Mill, Edgeworth, Pareto and Viner—perpetrates something of a shell game  in  ethical  debates  about  the  conflict  between  efficiency  and  greater inequality.
+Policy aside and ethical judgments aside, mainstream trade economists have insufficiently noticed the drastic change in mean U.S. incomes and in inequalities among different U.S. classes. As in any other society, perhaps a third of Americans are not highly educated and not energetic enough to qualify for skilled professional jobs. If mass immigration into the United States of similar workers to them had been permitted to actually take place, mainstream economists could not avoid predicting a substantial drop in wages of this native group while the new immi- grants were earning a substantial rise over what their old-country real wages had been.
+Therefore, as a result of my 1948 –1949 revival and perfecting of the 1919 – 1933 Heckscher-Ohlin argumentation of factor price quasi-equalization by trade in goods alone, one could have foreseen the following at World War II’s end. Historically, U.S. workers used to have kind of a de facto monopoly access to the superlative capitals and know-hows (scientific, engineering and managerial) of the United States. All of us Yankees, so to speak, were born with silver spoons in our mouths — and that importantly explained the historically high U.S. market-clearing real wage rates for (among others) janitors, house helpers, small business owners and so forth. However, after World War II, this U.S. know-how and capital began to spread faster away from the United States. That meant that in a real sense foreign educable masses—first in western Europe, then throughout the Pacific Rim— could and did genuinely provide the same kind of competitive pressures on U.S. lower middle class wage earnings that mass migration would have threatened to do.
+Post-2000 outsourcing is just what ought to have been predictable as far back as 1950. And in accordance with basic economic law, this will only grow in the future 2004 –2050 period. Other authors could add, to my presented Acts I and II, additional Acts explaining why there took place a historical drop in the U.S. share of total global output from almost 50 percent at 1945 war’s end (with Europe and Japan in temporary chaos) down to 40 percent, down to 30 percent and, according
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+to the Penn World Tables of purchasing-power-corrected per capita incomes, now down to perhaps only one-fifth to one-quarter. Although these trends did not mean an absolute decline in U.S. affluence, they arguably did reflect a head wind slowing down the U.S. post-Keynes rate of real growth in the last half of the twentieth century.
+Not surprisingly, successful developing nations—such as Japan, Hong Kong, Singapore, Taiwan, South Korea, even Thailand, Indonesia and the Philippines— were able at the end of the twentieth century to reduce America’s lead over their own per capita real incomes. The same thing happened for western Europe in the 1950 –1980 period. One wondered whether one or more of these trailing bicycle riders would fully catch up with the U.S. bicycle and then maybe even forge ahead of it. The Penn World Tables and Angus Maddison’s similar estimates seem not to report that happening as yet. Could that be a sign that the United States’ original innovations, as they spread abroad, have been the important factors in explaining America’s diminishing lead?
+One hesitates to say. Actually there is some suggestive evidence that French or German per-hour productivity does surpass the U.S. per-hour productivity. If only the French and Germans would match U.S. weekly and monthly average number of total hours of work, their bicycles would be running ahead of the U.S. frontrunner. Evidently subjective tastes can modify technological Ricardo-like parameters in explaining dynamic patterns of contemporary global and domestic economics.
+Even if my hypotheses are exaggerated, they are what both Ricardo-Mill and
+more general Ricardo models would seem to be suggesting.
